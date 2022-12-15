@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "96e4a16a478f1ce1",
+    "type": "split",
+    "children": [
+      {
+        "id": "df301a5d2cfb06b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9949679ce3ad7e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Journal/12-15-2022.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e16b1e3ac3958baa",
+    "type": "split",
+    "children": [
+      {
+        "id": "fb1edc013a662c60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d6e957244ec82a49",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "05a8ae832f5ee1f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "423a70604529e5b3",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "24021317ff8d606d",
+    "type": "split",
+    "children": [
+      {
+        "id": "bc39a6d7bed319b2",
+        "type": "tabs",
+        "dimension": 36.22222222222222,
+        "children": [
+          {
+            "id": "b85ad327c5163dd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Journal/12-15-2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c36fa53e7fa9c56f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Journal/12-15-2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a13768d27c11461",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Journal/12-15-2022.md"
+              }
+            }
+          },
+          {
+            "id": "0b302a4e267a5cff",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "d424201a14f4b008",
+        "type": "tabs",
+        "dimension": 63.777777777777786,
+        "children": [
+          {
+            "id": "d3e098d2e351a00c",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "1b00d3a9e77438b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5,
+    "collapsed": true
+  },
+  "active": "ea9949679ce3ad7e",
+  "lastOpenFiles": [
+    "Obsidian 试验场.md",
+    "Obsidian 练习场.md",
+    "Twitter.md",
+    "Obsidian同步方案.md",
+    "文章模版案例1.md",
+    "🔧/Freesfilesync.md",
+    "Github Desktop.md",
+    "Obsidian 简明指南.md",
+    "Obsidian.md",
+    "Mindmap-Obsidian.md"
+  ]
+}

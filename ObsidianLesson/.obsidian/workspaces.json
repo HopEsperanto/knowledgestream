@@ -1,0 +1,1189 @@
+{
+  "workspaces": {
+    "文章预览👀": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "df301a5d2cfb06b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea9949679ce3ad7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "4b59b3fabd7387fc"
+              }
+            ]
+          },
+          {
+            "id": "1382d146865b1077",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "0c4044bd2650ec7c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "4b59b3fabd7387fc"
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 试验场.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "active": "ea9949679ce3ad7e"
+    },
+    "专心写作✏️": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "df301a5d2cfb06b2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ea9949679ce3ad7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 试验场.md"
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 2
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "active": "ea9949679ce3ad7e"
+    },
+    "Obsidian试验场🧪": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "df301a5d2cfb06b2",
+            "type": "tabs",
+            "dimension": 32.73638968481375,
+            "children": [
+              {
+                "id": "ea9949679ce3ad7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "ac94fb85335a7191"
+              }
+            ]
+          },
+          {
+            "id": "c9adefa0f610683c",
+            "type": "tabs",
+            "dimension": 33.45272206303725,
+            "children": [
+              {
+                "id": "970ebed912212805",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                },
+                "group": "ac94fb85335a7191"
+              }
+            ]
+          },
+          {
+            "id": "d04e53672670981e",
+            "type": "tabs",
+            "dimension": 33.810888252149,
+            "children": [
+              {
+                "id": "1e1d38793e2ae7e7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 练习场.md",
+                    "mode": "source",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 试验场.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "floating": {
+        "id": "77af4fabd5e1f4f6",
+        "type": "floating",
+        "children": [
+          {
+            "id": "05426e9e5a6fb8e3",
+            "type": "window",
+            "children": [
+              {
+                "id": "8b27b5a0c6abb06d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b1ccd4d31bf98888",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Obsidian 试验场.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 5,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [
+                            {
+                              "query": "tag:#待办",
+                              "color": {
+                                "a": 1,
+                                "rgb": 15084864
+                              }
+                            },
+                            {
+                              "query": "tag:#tool",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14512654
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": -0.2,
+                          "nodeSizeMultiplier": 0.537443033854167,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.0391747376150628,
+                          "close": false
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 0,
+            "y": 924,
+            "width": 1440,
+            "height": 730,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "970ebed912212805"
+    },
+    "Obsidian布局示例": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "d14ecc254b5c1317",
+            "type": "split",
+            "dimension": 39.60749330954505,
+            "children": [
+              {
+                "id": "f8e1d3ee46c2866a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "fa74fc206cb52106",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Obsidian 简明指南.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 2,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": false,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": true,
+                          "colorGroups": [],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": 0,
+                          "nodeSizeMultiplier": 1,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 0.6151525339596824,
+                          "close": true
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "439a2ae8de1ee444",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "25e4d0a33ba57e39",
+                    "type": "leaf",
+                    "state": {
+                      "type": "mindmap",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "df301a5d2cfb06b2",
+            "type": "tabs",
+            "dimension": 60.39250669045495,
+            "children": [
+              {
+                "id": "ea9949679ce3ad7e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Obsidian 简明指南.md",
+                    "mode": "preview",
+                    "backlinks": true,
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 简明指南.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 简明指南.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 简明指南.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5
+      },
+      "floating": {
+        "id": "77af4fabd5e1f4f6",
+        "type": "floating",
+        "children": [
+          {
+            "id": "05426e9e5a6fb8e3",
+            "type": "window",
+            "children": [
+              {
+                "id": "8b27b5a0c6abb06d",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "b1ccd4d31bf98888",
+                    "type": "leaf",
+                    "state": {
+                      "type": "localgraph",
+                      "state": {
+                        "file": "Obsidian 简明指南.md",
+                        "options": {
+                          "collapse-filter": false,
+                          "search": "",
+                          "localJumps": 5,
+                          "localBacklinks": true,
+                          "localForelinks": true,
+                          "localInterlinks": true,
+                          "showTags": true,
+                          "showAttachments": false,
+                          "hideUnresolved": false,
+                          "collapse-color-groups": false,
+                          "colorGroups": [
+                            {
+                              "query": "tag:#待办",
+                              "color": {
+                                "a": 1,
+                                "rgb": 15084864
+                              }
+                            },
+                            {
+                              "query": "tag:#tool",
+                              "color": {
+                                "a": 1,
+                                "rgb": 14512654
+                              }
+                            }
+                          ],
+                          "collapse-display": true,
+                          "showArrow": false,
+                          "textFadeMultiplier": -0.2,
+                          "nodeSizeMultiplier": 0.537443033854167,
+                          "lineSizeMultiplier": 1,
+                          "collapse-forces": true,
+                          "centerStrength": 0.518713248970312,
+                          "repelStrength": 10,
+                          "linkStrength": 1,
+                          "linkDistance": 250,
+                          "scale": 1.0391747376150628,
+                          "close": false
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical",
+            "x": 0,
+            "y": 762,
+            "width": 1440,
+            "height": 730,
+            "maximize": false,
+            "zoom": 0
+          }
+        ]
+      },
+      "active": "ea9949679ce3ad7e"
+    },
+    "social": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "99748b20dde1f7a1",
+            "type": "split",
+            "dimension": 52.00845665961945,
+            "children": [
+              {
+                "id": "f8e1d3ee46c2866a",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c6c4211f653647fb",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-twitter",
+                      "state": {}
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "80f64d96a46fa2f0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "60137fec8a3d7410",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-github",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "34df4db615839c05",
+            "type": "split",
+            "dimension": 47.99154334038055,
+            "children": [
+              {
+                "id": "df301a5d2cfb06b2",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "ea9949679ce3ad7e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Obsidian 试验场.md",
+                        "mode": "preview",
+                        "backlinks": true,
+                        "source": true
+                      }
+                    }
+                  },
+                  {
+                    "id": "7bd00dbc4e3863fa",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-weibo",
+                      "state": {}
+                    }
+                  }
+                ],
+                "currentTab": 1
+              },
+              {
+                "id": "7ca9c9ff93e38da0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "c0feba9996ce57c1",
+                    "type": "leaf",
+                    "state": {
+                      "type": "custom-frames-zcool",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 300,
+        "collapsed": true
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 试验场.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 试验场.md"
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "active": "c0feba9996ce57c1"
+    }
+  },
+  "active": "专心写作✏️"
+}
