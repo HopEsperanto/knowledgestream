@@ -1,5 +1,5 @@
 {
-  "livePreview": false,
+  "livePreview": true,
   "attachmentFolderPath": "Attachment",
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
