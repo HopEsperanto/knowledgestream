@@ -204,7 +204,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 简明指南.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -279,7 +279,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 简明指南.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -296,7 +296,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 简明指南.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -308,7 +308,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Obsidian 试验场.md"
+                    "file": "ObsidianLesson/Obsidian 简明指南.md"
                   }
                 }
               },
@@ -373,7 +373,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 试验场.md",
                     "mode": "preview",
                     "backlinks": true,
                     "source": true
@@ -394,7 +394,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 试验场.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -415,7 +415,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Obsidian 练习场.md",
+                    "file": "ObsidianLesson/Obsidian 练习场.md",
                     "mode": "source",
                     "backlinks": true,
                     "source": true
@@ -490,7 +490,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 练习场.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -507,7 +507,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Obsidian 试验场.md",
+                    "file": "ObsidianLesson/Obsidian 练习场.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   }
@@ -554,7 +554,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Obsidian 试验场.md"
+                    "file": "ObsidianLesson/Obsidian 练习场.md"
                   }
                 }
               }
@@ -566,82 +566,7 @@
         "width": 275.5,
         "collapsed": true
       },
-      "floating": {
-        "id": "77af4fabd5e1f4f6",
-        "type": "floating",
-        "children": [
-          {
-            "id": "05426e9e5a6fb8e3",
-            "type": "window",
-            "children": [
-              {
-                "id": "8b27b5a0c6abb06d",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "b1ccd4d31bf98888",
-                    "type": "leaf",
-                    "state": {
-                      "type": "localgraph",
-                      "state": {
-                        "file": "Obsidian 试验场.md",
-                        "options": {
-                          "collapse-filter": false,
-                          "search": "",
-                          "localJumps": 5,
-                          "localBacklinks": true,
-                          "localForelinks": true,
-                          "localInterlinks": true,
-                          "showTags": true,
-                          "showAttachments": false,
-                          "hideUnresolved": false,
-                          "collapse-color-groups": false,
-                          "colorGroups": [
-                            {
-                              "query": "tag:#待办",
-                              "color": {
-                                "a": 1,
-                                "rgb": 15084864
-                              }
-                            },
-                            {
-                              "query": "tag:#tool",
-                              "color": {
-                                "a": 1,
-                                "rgb": 14512654
-                              }
-                            }
-                          ],
-                          "collapse-display": true,
-                          "showArrow": false,
-                          "textFadeMultiplier": -0.2,
-                          "nodeSizeMultiplier": 0.537443033854167,
-                          "lineSizeMultiplier": 1,
-                          "collapse-forces": true,
-                          "centerStrength": 0.518713248970312,
-                          "repelStrength": 10,
-                          "linkStrength": 1,
-                          "linkDistance": 250,
-                          "scale": 1.0391747376150628,
-                          "close": false
-                        }
-                      }
-                    }
-                  }
-                ]
-              }
-            ],
-            "direction": "vertical",
-            "x": 0,
-            "y": 924,
-            "width": 1440,
-            "height": 730,
-            "maximize": false,
-            "zoom": 0
-          }
-        ]
-      },
-      "active": "970ebed912212805"
+      "active": "1e1d38793e2ae7e7"
     },
     "Obsidian布局示例": {
       "main": {
@@ -1183,7 +1108,578 @@
         "collapsed": true
       },
       "active": "c0feba9996ce57c1"
+    },
+    "白板示例": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "667d9b44f4d6e571",
+            "type": "split",
+            "children": [
+              {
+                "id": "df301a5d2cfb06b2",
+                "type": "tabs",
+                "dimension": 51.51515151515152,
+                "children": [
+                  {
+                    "id": "ea9949679ce3ad7e",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Obsidian 教程总览.canvas",
+                        "viewState": {
+                          "x": 1160.994192865773,
+                          "y": 64.97801102410475,
+                          "zoom": -0.6195909316475162,
+                          "snapToGrid": false
+                        }
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "1ceec745cba18409",
+                "type": "split",
+                "dimension": 48.48484848484848,
+                "children": [
+                  {
+                    "id": "3e7420eab19793b5",
+                    "type": "tabs",
+                    "dimension": 60.85766423357665,
+                    "children": [
+                      {
+                        "id": "164553ccd724ede0",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Obsidian同步方案-个人向.md",
+                            "mode": "preview",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        },
+                        "group": "3568cf4b304914a2"
+                      },
+                      {
+                        "id": "1ee1fb9972af6e48",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Mockup/AI generate text.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      },
+                      {
+                        "id": "41689cdd8d01630d",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Obsidian-AI工具篇.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ],
+                    "currentTab": 1
+                  },
+                  {
+                    "id": "59f2a29aa047b45c",
+                    "type": "tabs",
+                    "dimension": 39.14233576642336,
+                    "children": [
+                      {
+                        "id": "ca714c0ffe17fcff",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "Obsidian同步方案-个人向.md",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 5,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": true,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": false,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 0.7580030846613951,
+                              "close": true
+                            }
+                          }
+                        },
+                        "group": "3568cf4b304914a2"
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#知识库",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 238.5
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 教程总览.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 教程总览.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 教程总览.canvas"
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "flashcards-obsidian:Generate flashcards": false,
+          "obsidian-journey-plugin:Find Journey": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "ea9949679ce3ad7e"
+    },
+    "Obsidian版NovelAI😛": {
+      "main": {
+        "id": "96e4a16a478f1ce1",
+        "type": "split",
+        "children": [
+          {
+            "id": "667d9b44f4d6e571",
+            "type": "split",
+            "children": [
+              {
+                "id": "4d9135c5214c4345",
+                "type": "split",
+                "dimension": 58.73221216041398,
+                "children": [
+                  {
+                    "id": "e8bb1b8c4d7369c9",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "f9eff896205b9628",
+                        "type": "leaf",
+                        "state": {
+                          "type": "custom-frames-chatgpt",
+                          "state": {}
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "99fcea3588fa0c44",
+                    "type": "tabs",
+                    "children": [
+                      {
+                        "id": "de941e37c37281f9",
+                        "type": "leaf",
+                        "state": {
+                          "type": "custom-frames-playgroundai",
+                          "state": {}
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              },
+              {
+                "id": "1ceec745cba18409",
+                "type": "split",
+                "dimension": 41.26778783958603,
+                "children": [
+                  {
+                    "id": "3e7420eab19793b5",
+                    "type": "tabs",
+                    "dimension": 74.21944692239072,
+                    "children": [
+                      {
+                        "id": "41689cdd8d01630d",
+                        "type": "leaf",
+                        "state": {
+                          "type": "markdown",
+                          "state": {
+                            "file": "Obsidian 版的 NovelAI😋.md",
+                            "mode": "source",
+                            "backlinks": true,
+                            "source": false
+                          }
+                        }
+                      }
+                    ]
+                  },
+                  {
+                    "id": "59f2a29aa047b45c",
+                    "type": "tabs",
+                    "dimension": 25.780553077609277,
+                    "children": [
+                      {
+                        "id": "ca714c0ffe17fcff",
+                        "type": "leaf",
+                        "state": {
+                          "type": "localgraph",
+                          "state": {
+                            "file": "Obsidian 版的 NovelAI😋.md",
+                            "options": {
+                              "collapse-filter": true,
+                              "search": "",
+                              "localJumps": 5,
+                              "localBacklinks": true,
+                              "localForelinks": true,
+                              "localInterlinks": false,
+                              "showTags": true,
+                              "showAttachments": false,
+                              "hideUnresolved": false,
+                              "collapse-color-groups": true,
+                              "colorGroups": [],
+                              "collapse-display": true,
+                              "showArrow": false,
+                              "textFadeMultiplier": 0,
+                              "nodeSizeMultiplier": 1,
+                              "lineSizeMultiplier": 1,
+                              "collapse-forces": false,
+                              "centerStrength": 0.518713248970312,
+                              "repelStrength": 10,
+                              "linkStrength": 1,
+                              "linkDistance": 250,
+                              "scale": 0.92210791148173,
+                              "close": true
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "direction": "vertical"
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "e16b1e3ac3958baa",
+        "type": "split",
+        "children": [
+          {
+            "id": "fb1edc013a662c60",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d6e957244ec82a49",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "05a8ae832f5ee1f9",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#知识库",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "423a70604529e5b3",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 238.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "24021317ff8d606d",
+        "type": "split",
+        "children": [
+          {
+            "id": "bc39a6d7bed319b2",
+            "type": "tabs",
+            "dimension": 36.22222222222222,
+            "children": [
+              {
+                "id": "b85ad327c5163dd7",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Obsidian 版的 NovelAI😋.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "c36fa53e7fa9c56f",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Obsidian 版的 NovelAI😋.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "9a13768d27c11461",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Obsidian 版的 NovelAI😋.md"
+                  }
+                }
+              },
+              {
+                "id": "0b302a4e267a5cff",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {}
+                }
+              }
+            ],
+            "currentTab": 3
+          },
+          {
+            "id": "d424201a14f4b008",
+            "type": "tabs",
+            "dimension": 63.777777777777786,
+            "children": [
+              {
+                "id": "d3e098d2e351a00c",
+                "type": "leaf",
+                "state": {
+                  "type": "memos_view",
+                  "state": {}
+                }
+              },
+              {
+                "id": "1b00d3a9e77438b6",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "horizontal",
+        "width": 275.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "flashcards-obsidian:Generate flashcards": false,
+          "obsidian-journey-plugin:Find Journey": false,
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian-textgenerator-plugin:Generate Text!": false,
+          "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+          "obsidian-memos:Memos": false
+        }
+      },
+      "active": "41689cdd8d01630d"
     }
   },
-  "active": "专心写作✏️"
+  "active": "白板示例"
 }
