@@ -1,25 +1,21 @@
 {
   "main": {
-    "id": "96e4a16a478f1ce1",
+    "id": "3f36b0f2c447e4c8",
     "type": "split",
     "children": [
       {
-        "id": "df301a5d2cfb06b2",
+        "id": "f35eb8d9e090d2ed",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9949679ce3ad7e",
+            "id": "b94a61f27071e60c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 3.7202270507812503,
-                  "zoom": 0,
-                  "snapToGrid": false
-                }
+                "file": "ObsidianLesson/百度云网盘.md",
+                "mode": "source",
+                "source": true
               }
             }
           }
@@ -29,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e16b1e3ac3958baa",
+    "id": "ea057035004e77df",
     "type": "split",
     "children": [
       {
-        "id": "fb1edc013a662c60",
+        "id": "999c791b4a53c982",
         "type": "tabs",
         "children": [
           {
-            "id": "d6e957244ec82a49",
+            "id": "a7b64668f8678b9f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -47,7 +43,7 @@
             }
           },
           {
-            "id": "05a8ae832f5ee1f9",
+            "id": "47cc4f7c3f29a3c0",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -62,7 +58,7 @@
             }
           },
           {
-            "id": "423a70604529e5b3",
+            "id": "5b87cd53888c37ca",
             "type": "leaf",
             "state": {
               "type": "starred",
@@ -73,25 +69,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
-    "id": "24021317ff8d606d",
+    "id": "d2c92c4cca62f592",
     "type": "split",
     "children": [
       {
-        "id": "bc39a6d7bed319b2",
+        "id": "7274daf0ec192ca3",
         "type": "tabs",
-        "dimension": 36.22222222222222,
         "children": [
           {
-            "id": "b85ad327c5163dd7",
+            "id": "a4167aefd202cce7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ObsidianLesson/百度云网盘.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,53 +97,19 @@
             }
           },
           {
-            "id": "c36fa53e7fa9c56f",
+            "id": "f671bb2e4abeb219",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "ObsidianLesson/百度云网盘.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9a13768d27c11461",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Untitled.canvas"
-              }
-            }
-          },
-          {
-            "id": "0b302a4e267a5cff",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d424201a14f4b008",
-        "type": "tabs",
-        "dimension": 63.777777777777786,
-        "children": [
-          {
-            "id": "d3e098d2e351a00c",
-            "type": "leaf",
-            "state": {
-              "type": "memos_view",
-              "state": {}
-            }
-          },
-          {
-            "id": "1b00d3a9e77438b6",
+            "id": "33dca858b635bd5c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -158,39 +118,45 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "4936b86be985780b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ObsidianLesson/百度云网盘.md"
+              }
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 275.5,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "flashcards-obsidian:Generate flashcards": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
       "canvas:Create new canvas": false,
-      "obsidian-memos:Memos": false
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "1b00d3a9e77438b6",
+  "active": "b94a61f27071e60c",
   "lastOpenFiles": [
-    "Journal/12-15-2022.md",
-    "AIGC/可口可乐.md",
-    "AIGC/百事可乐.md",
-    "Obsidian 试验场.md",
-    "Obsidian 练习场.md",
-    "Twitter.md",
-    "Obsidian同步方案.md",
-    "文章模版案例1.md",
-    "🔧/Freesfilesync.md",
-    "Github Desktop.md"
+    "ObsidianLesson/程序员做饭指南.md",
+    "ObsidianLesson/工作区-Obsdian.md",
+    "ObsidianLesson/百度云网盘.md",
+    "Obsidian 教程总览.canvas",
+    "HopE.md",
+    "幕布.md",
+    "日记-Obsidian.md",
+    "模版-Obsidian.md",
+    "模板-Obsidian使用案例.md",
+    "命令面板-Obsidian.md"
   ]
 }

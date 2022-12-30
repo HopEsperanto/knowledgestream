@@ -17,7 +17,7 @@ https://www.gitbook.com/
 
 -   [希腊神话](https://github.com/Lihaogx/graph-note-of-greek-myth)
 
-## [[🔧/Freesfilesync]]
+## [[Freesfilesync 1]]
 ![[Freesfilesync]]
 
 ![[文章模版案例1]]
