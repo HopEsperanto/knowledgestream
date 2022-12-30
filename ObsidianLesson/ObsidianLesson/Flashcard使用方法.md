@@ -1,27 +1,17 @@
+#教程 #Obsidian 
 
-#addon #tool #Obsidian 
-Obsidian 联动 [[Anki]] 插件，通过使用特定语法，一键将文档中的内容制成 Anki 卡片进行定期回顾。
-现已支持
-	🔢 Support for **LaTeX**  
-	🖼️ Support for **images**  
-	🎤 Support for **audios**  
-	🔗 Support for **Obsidian URI**  
-	⚓ Support for **reference to note**  
-	📟 Support for **code syntax highlight**
-
-
+## 语法概览
 🗃️ Simple flashcards with #card
-🎴 Reversed flashcards with #card-reverse or #card/reverse
-📅 Spaced-only cards with #card-spaced or #card/spaced
+🎴 Reversed flashcards with #card -reverse or #card/reverse
+📅 Spaced-only cards with #card -spaced or #card/spaced
 ✍️ Inline style with Question::Answer
 ✍️ Inline style reversed with Question:::Answer
 📃 Cloze with Highlight or {Curly brackets} or {2: Cloze}
 🧠 Context-aware mode
 🏷️ Global and local tags
 
-## 使用方法
+## [[Anki联动Obsidian]]
 
-Git 地址：[GitHub - reuseman/flashcards-obsidian: 🎴 An Anki plugin for Obsidian.md](https://github.com/reuseman/flashcards-obsidian)
 
 ## 生成卡片
 
@@ -67,7 +57,7 @@ My question :: My answer
 You can even use it in lists:
 - My question:: My answer
 ```
-三冒号生成正反卡
+#### 三冒号生成正反卡
 
 ### 高亮法
 插件会识别一行内含在**一对双等号**的内容识别为**填空题**
@@ -76,4 +66,6 @@ This is a way to define a ==cloze== by using the Obsidian highlight syntax in or
 The alternative is this type of {cloze} that is totally equal to {1:cloze}. With the number you can specify the order {2:later cloze}.
 ```
 
-## 标签
+
+## [[Obsidian 内对 Anki 卡片的管理]]
+
